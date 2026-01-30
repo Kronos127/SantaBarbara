@@ -1,0 +1,298 @@
+{
+  "Mission Terrace": {
+    "Mission Terrace": {
+      "Pole": {
+        "Materials": [
+          {
+            "key": "Material",
+            "values": ["Oak"]
+          }
+        ]
+      },
+      "Canopy and Lining Fabrics": [
+        {
+          "key": "Fabric",
+          "values": [
+            "1690 Cabana Aqua Stripe",
+            "1445 Cabana Blue Stripe",
+            "1691 Cabana Navy Stripe",
+            "1465 Cabana Yellow Stripe",
+            "1482 Cabana Green Stripe",
+            "1692 Cabana Orange Stripe",
+            "1505 Cabana Red Stripe",
+            "1529 Cabana Pink Stripe",
+            "1781 Cabana Tan Stripe",
+            "1525 Cabana Grey Stripe",
+            "1515 Cabana Black Stripe",
+            "1535 Whitecap",
+            "1542 Whipped Cream",
+            "1730 Alabaster",
+            "1540 Natural",
+            "1731 Ecru",
+            "1693 Biscuit",
+            "1706 Pebble",
+            "1533 Desert Sand",
+            "1610 Drifting Dune",
+            "1531 Platinum",
+            "1580 Moonmist",
+            "1689 Tweedy Cloud",
+            "1757 Seashell",
+            "1530 Cadet Grey",
+            "1750 Stone",
+            "1751 Dove Tweed",
+            "1688 Tweedy Ash",
+            "1705 Lava Grey",
+            "1753 Obsidian Tweed",
+            "1703 Espresso",
+            "1704 Caviar",
+            "1520 Midnight Black",
+            "1600 Sandpiper",
+            "1528 Vintage Taupe",
+            "1722 Harvest",
+            "1685 Truffle",
+            "1733 Sienna",
+            "1741 Driftwood",
+            "1742 Shoreline",
+            "1460 Cornsilk",
+            "1695 Lemonade",
+            "1726 Daisy",
+            "1734 Citron",
+            "1743 Marigold",
+            "1697 Mandarin Orange",
+            "1686 Tango Orange",
+            "1645 Mango",
+            "1585 Peach Dawn",
+            "1732 Blush",
+            "1756 Pink Champagne",
+            "1696 French Pink",
+            "1723 Antique Pink",
+            "1416 Watermelon",
+            "1687 Tropical Pink",
+            "1510 Tango Red",
+            "1758 Simply Red",
+            "1759 Crimson Cord",
+            "1744 Garnet",
+            "1605 Terracotta",
+            "1608 Sedona",
+            "1736 Bordeaux",
+            "1745 Vintage Lilac",
+            "1725 Plum",
+            "1737 Amethyst",
+            "1405 Aqua Sea",
+            "1435 Summer Sky",
+            "1699 Malibu Blue",
+            "1700 Peacock Blue",
+            "1548 Tahitian Blue",
+            "1747 Lagoon",
+            "1436 China Blue",
+            "1450 Anchor Blue",
+            "1581 Santa Barbara Blue",
+            "1701 Cape Cod Blue",
+            "1754 Marina Blue",
+            "1755 Denim",
+            "1558 Slate Blue",
+            "1560 Admiral Blue",
+            "1546 Navy",
+            "1739 Adriatic",
+            "1746 Aegean",
+            "1655 Sage Green",
+            "1748 Eucalyptus",
+            "1715 Iguana",
+            "1698 Jungle Green",
+            "1675 Kiwi Green",
+            "1738 Olive Mist",
+            "1740 Dark Moss",
+            "1590 Bottle Green",
+            "1702 Pickle",
+            "1760 Cabana Light Blue Stripe"
+          ]
+        }
+      ],
+      "Trims": [
+        {
+          "key": "Trim",
+          "values": [
+            "T-503016 Natural",
+            "T-603065 Oyster",
+            "T-503045 Ivory",
+            "T-503041 Linen",
+            "T-503091 Toast",
+            "T-603098 Nutmeg",
+            "T-503020 Beige",
+            "T-503092 Taupe",
+            "T-503021 Grey",
+            "T-603074 Silver",
+            "T-503026 Vanilla",
+            "T-503036 Buttercup",
+            "T-503042 Yellow",
+            "T-503031 Coral",
+            "T-603012 Hot Pink",
+            "T-603023 Mulberry",
+            "T-603019 Orange",
+            "T-503039 Logo Red",
+            "T-503030 Jockey Red",
+            "T-503028 Terracotta",
+            "T-503025 Burgundy",
+            "T-502980 Gingko",
+            "T-603061 Amande",
+            "T-603053 Sea Spray",
+            "T-603036 Mineral",
+            "T-603048 Glacier",
+            "T-603042 Aruba",
+            "T-503032 Aquamarine",
+            "T-503024 Persian Green",
+            "T-503023 Green",
+            "T-503027 Forest Green",
+            "T-603055 Deep Sea",
+            "T-503093 Turquoise",
+            "T-603034 Capri",
+            "T-503035 Sky Blue",
+            "T-503033 Sapphire",
+            "T-503094 Mediterranean Blue",
+            "T-503022 Pacific Blue",
+            "T-503029 Navy Blue",
+            "T-503096 Concord",
+            "T-603027 Black Cherry",
+            "T-503019 True Brown",
+            "T-503097 Charcoal Grey",
+            "T-503037 Black",
+            "F-3415 Natural",
+            "F-3675 Ivory",
+            "F-3682 Vanilla",
+            "F-3482 Flutter",
+            "F-3540 Coastal",
+            "F-3547 Blue Skies",
+            "F-3588 Lustrous",
+            "F-3581 Fresh",
+            "F-3660 Cheery",
+            "F-3659 Radiant Red",
+            "F-3653 Blaze",
+            "F-3579 Surfer",
+            "F-3575 Dragonfly",
+            "F-3460 Beachy",
+            "F-3451 Glow",
+            "F-3616 Capri",
+            "F-3624 Aruba",
+            "F-3715 Sky Blue",
+            "F-3722 Mineral",
+            "F-3708 Pacific Blue",
+            "F-3701 Mediterranean Blue",
+            "F-3695 Mulberry",
+            "F-3515 Hot Pink",
+            "F-3688 Melon",
+            "F-3532 Rose",
+            "F-3436 Buttercup",
+            "F-3667 Menthe",
+            "F-3729 Aquamarine",
+            "F-3735 Glacier",
+            "F-3748 Forest Green",
+            "F-3742 Fern",
+            "F-3476 Charcoal",
+            "F-3440 Taupe"
+          ]
+        }
+      ],
+      "Canopies": [
+        {
+          "key": "Canopy Style",
+          "values": [
+            "Block Stripe",
+            "Interior Lining",
+            "Double Banding",
+            "Double Wind Vent",
+            "Double Wind Vent with Triple Banding",
+            "Glace Style",
+            "Alternating Panels"
+          ]
+        }
+      ],
+      "Valances": [
+        {
+          "key": "Valance Style",
+          "values": [
+            "Straight Edge Valance with Braid Trim",
+            "Mirasol Valance with Braid Trim",
+            "Mirasol Valance with Brush Fringe",
+            "Mirasol Valance with Bullion Fringe",
+            "Scalloped Valance with Braid Trim",
+            "Scalloped Valance with Brush Fringe",
+            "Scalloped Valance with Bullion Fringe",
+            "Marquis Valance with Braid Trim",
+            "Keyhole Valance with Braid Trim",
+            "Regency Valance with Brush Fringe",
+            "Regency Valance with Bullion Fringe",
+            "Regency Six Valance with Bullion Fringe",
+            "Full Fringe Valance with 4 Inch Bullion"
+          ]
+        }
+      ],
+      "Bases": [
+        {
+          "key": "Base Type",
+          "values": [
+            "90 lb Steel Base",
+            "90 lb Steel Base w/Casters",
+            "90 lb Steel Base w/Side Rollers",
+            "130 lb Steel Base",
+            "130 lb Steel Base w/Casters",
+            "130 lb Steel Base w/Side Rollers"
+          ]
+        }
+      ],
+      "OCS": [
+        {
+          "key": "Open/Close System",
+          "values": [
+            "Open/Close System with Harnes and Pulleys"
+          ]
+        }
+      ],
+      "SizeAndShape": {
+        "Octagon": [
+          {
+            "key": "Style Number",
+            "values": ["MTO - 8", "MTO - 10", "MTO - 12"]
+          },
+          {
+            "key": "Size",
+            "values": ["8'0\"", "10'0\"", "12'0\""]
+          },
+          {
+            "key": "Ground Clearance",
+            "values": ["7'", "7'", "7'"]
+          },
+          {
+            "key": "Pole Diameter",
+            "values": ["2\"", "2\"", "2.5\""]
+          },
+          {
+            "key": "Overall Height",
+            "values": ["8'6\"", "9'1\"", "9'1\""]
+          }
+        ],
+        "Square": [
+          {
+            "key": "Style Number",
+            "values": ["MTS - 8", "MTS - 10", "MTS - 12"]
+          },
+          {
+            "key": "Size",
+            "values": ["8'0\"", "10'0\"", "12'0\""]
+          },
+          {
+            "key": "Ground Clearance",
+            "values": ["7'", "7'", "7'"]
+          },
+          {
+            "key": "Pole Diameter",
+            "values": ["1.5\"", "2\"", "2.5\""]
+          },
+          {
+            "key": "Overall Height",
+            "values": ["8'6\"", "8'8\"", "9'6\""]
+          }
+        ]
+      }
+    }
+  }
+}

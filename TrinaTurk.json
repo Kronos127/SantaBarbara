@@ -1,0 +1,60 @@
+{
+  "Trina Turk Collection": {
+    "Pole": {
+      "Materials": [
+        {
+          "key": "Material",
+          "values": ["Aluminum"]
+        }
+      ]
+    },
+    "Canopy and Lining Fabrics": [
+      {
+        "key": "Fabric",
+        "values": [
+          "181061 Morning Sunrise Indoor/Outdoor - Fern",
+          "181062 Morning Sunrise Indoor/Outdoor - Citrus",
+          "181060 Morning Sunrise Indoor/Outdoor - Horizon Blue",
+          "65330 Zig Zag Weave Indoor/Outdoor - Laguna",
+          "181081 Santorini Print Indoor/Outdoor - Fern",
+          "174303 Santorini Print Indoor/Outdoor - Java",
+          "181080 Santorini Print Indoor/Outdoor - Desert",
+          "174302 Santorini Print Indoor/Outdoor - Fog",
+          "181071 Palisades Palm Indoor/Outdoor - Fern",
+          "181070 Palisades Palm Indoor/Outdoor - Indigo",
+          "174242 Sonriza Print Indoor/Outdoor - Java",
+          "65326 Amazing Maze Indoor/Outdoor - Aqua Breeze",
+          "65327 Amazing Maze Indoor/Outdoor - Blush",
+          "65322 Amazing Maze Indoor/Outdoor - Kohl",
+          "181052 Ink Wave Print Indoor/Outdoor - Black",
+          "181051 Ink Wave Print Indoor/Outdoor - Natural",
+          "174320 Super Paradise Print - Pool"
+        ]
+      }
+    ],
+    "SizeAndShape": {
+      "Hexagon": [
+        {
+          "key": "Style Number",
+          "values": ["PCH-9"]
+        },
+        {
+          "key": "Size",
+          "values": ["9'0\""]
+        },
+        {
+          "key": "Ground Clearance",
+          "values": ["7'0\""]
+        },
+        {
+          "key": "Pole Diameter",
+          "values": ["2\"0\""]
+        },
+        {
+          "key": "Overall Height",
+          "values": ["8'9\""]
+        }
+      ]
+    }
+  }
+}

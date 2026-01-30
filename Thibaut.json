@@ -1,0 +1,66 @@
+{
+  "Thibaut Collection": {
+    "Thibaut Collection": {
+      "Pole": {
+        "Materials": [
+          {
+            "key": "Material",
+            "values": ["Oak"]
+          }
+        ]
+      },
+      "Canopy and Lining Fabrics": [
+        {
+          "key": "Fabric",
+          "values": [
+            "F81673 Iggy - Poolside",
+            "F81674 Iggy - Jungle",
+            "F81675 Iggy - Desert",
+            "F81672 Iggy - Island",
+            "F81676 Iggy - Lagoon",
+            "F81677 Iggy - Coastal",
+            "F81763 Protea Print - Coral",
+            "F81766 Protea Print - Spa Blue",
+            "F81761 Protea Print - Pool",
+            "F81765 Protea Print - Kiwi",
+            "F81764 Protea Print - Navy",
+            "F81762 Protea Print - Black",
+            "W81702 Esprit Stripe - Pine & Mimosa",
+            "W81701 Esprit Stripe - Pool & Spice",
+            "W81703 Esprit Stripe - Bermuda and Kiwi",
+            "W81705 Esprit Stripe - Sky and Sand",
+            "W81704 Esprit Stripe - Navy and Sand",
+            "W81700 Esprit Stripe - Cornflower and Peony",
+            "W81641 Panama Matelasse - Aqua",
+            "W81643 Panama Matelasse - Navy",
+            "W81640 Pattern: Panama Matelasse - Kiwi"
+          ]
+        }
+      ],
+      "SizeAndShape": {
+        "Hexagon": [
+          {
+            "key": "Style Number",
+            "values": ["ROH-9"]
+          },
+          {
+            "key": "Size",
+            "values": ["9'0\""]
+          },
+          {
+            "key": "Ground Clearance",
+            "values": ["7'0\""]
+          },
+          {
+            "key": "Pole Diameter",
+            "values": ["2'0\""]
+          },
+          {
+            "key": "Overall Height",
+            "values": ["8'9\""]
+          }
+        ]
+      }
+    }
+  }
+}
